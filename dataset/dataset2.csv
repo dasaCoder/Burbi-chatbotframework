@@ -1,0 +1,273 @@
+name,text,class
+Jeewanthi,මම දැම්ම ඕඩර් එක මට කැන්සල් කරන්න ඕන,cancelOrder
+Jeewanthi,මට දුන්න ඇඩ්‍රස් එක වෙනස් කරන්න ඕන,changeAddress
+Jeewanthi,විවෘත වෙලාව මොකක්ද,openingHousrs
+Jeewanthi,කොල පාට එකේ සයිසස් මොනාද???,askSizes
+Jeewanthi,දුරකථන අංකයක් දැනගැනීමට,telephone
+තරිඳු,ඇණවුම අවලංගු කිරීමට අවශ්‍යයි. මගේ ඇණවුම් අංකය #2345 .,cancelOrder
+තරිඳු,ඇණවුම සදහා ලබා දුන් ලිපිනය( Delivery Address) වෙනස් කරන්න අවශ්‍යයි.මගේ ඇණවුම් අංකය #2345,changeAddress
+තරිඳු,ශාඛාව විවෘතව ඇති වේලාවන් දැන ගැනීමට අවශ්‍යයි.,openingHousrs
+තරිඳු,කොළ පාට t-shirt එකේ L size  එක තියනවා ද,askSizes
+තරිඳු,දුරකථන අංකය ලබා දෙන්න,telephone
+Thejani,"සමාවෙන්න!
+මට ඇණවුම අවලංගු කරන්න අවශ්‍යයි.
+#2345 ඇණවුම් අංකය",cancelOrder
+Thejani,#2345 ඇණවුම් අංකයට අදාල ලිපිනය මට වෙනස් කරන්න ඕනි.,changeAddress
+Thejani,හිඟුරක්ගොඩ ශාඛාව විවෘත කරන වෙලාව කීයද?,openingHousrs
+Thejani,මේ කොල පාට ෂර්ට් එකේ ස්මෝල් සයිස් ඒවා තියෙනවද?,askSizes
+Thejani,හිඟුරක්ගොඩ ශාඛාවේ දුරකතන අංකය දැන ගන්න පුලුවන් වෙයිද මට ?,telephone
+Sakitha,මට #2345 ඇණවුම් අංකය තියෙන ඇණවුම අවලංගු කරලා දෙන්න,cancelOrder
+Sakitha,මට #2345 ඇණවුම් අංකය යටතේ තියෙන Delivery address එක වෙනස් කරන්න ඕනෑ,changeAddress
+Sakitha,මට බලංගොඩ පිහිටි SJ fashion ශාඛාව විවෘත කරලා තියෙන වේලාව දැන ගන්න ඕනෑ,openingHousrs
+Sakitha,මට කොල පාට t-shirt එකේ mediun size එක තියෙනවා ද කියලා දැන ගන්න ඕනෑ,askSizes
+Sakitha,මට බලංගොඩ පිහිටි SJ fashion ශාඛාවේ දුරකථන අංකය ලබා ගන්න පුලුවන් ද?,telephone
+Dhammika,මා දැමු ඇණවුමක් අවලංගු කිරිමට අවශ්‍යයි,cancelOrder
+Dhammika,#2345 මෙම ඇණවුම ට ලබා දුන් ඇණවුම බාර ගැනිමෙ ලිපිනය වෙනස් කිරිමට අවශ්‍යයි,changeAddress
+Dhammika,කෑගල්ල නගර ශාඛාව විවෘත වේලාවන් දැන ගැනිමට හැකිද ?,openingHousrs
+Dhammika,කොළ පැහැති t shirt එකෙ medium එක තිබෙද ?,askSizes
+Dhammika,මට කෑගල්ල නගර ශාඛාවේ දුරකථන අංකය ලබා ගත හැකිද ?,telephone
+Ruwan Dissanayaka,#2345 කැන්සල් කරන්න පුළුවන්ද,cancelOrder
+Ruwan Dissanayaka,එඩ්‍රස් එක මාරු කරන්න පුළුවන්ද #2345,changeAddress
+Ruwan Dissanayaka,අද shop එක ඇරලද,openingHousrs
+Ruwan Dissanayaka,කොල පාට එකේ medium තියෙනවාද,askSizes
+Ruwan Dissanayaka,ලගම branch එකේ Phone number එක දෙන්න පුලුවන්ද,telephone
+Savindi,මට #2345 order එක cancel කරන්න ඕන,cancelOrder
+Savindi,මට delivery address එක වෙනස් කරන්න පුළුවන් ද? Order #2345,changeAddress
+Savindi,ඔයාලා open කරන්නේ කීයටද?,openingHousrs
+Savindi,කොළ පාට එකෙන් small තියෙනවා ද?,askSizes
+Savindi,මට ඔයාලගේ කළුතර ශාඛාවේ නම්බර් එක දැන් ගන්න පුළුවන් ද?,telephone
+Thushara,"කරුණාකර මේ Order එක Cancel කරන්න පුලුවන්ද?
+Order Number එක #2345",cancelOrder
+Thushara,"කරුණාකර මේ Order එකේ Address එක වෙනස් කරන්න පුලුවන්ද ?
+
+Order Number එක #2345
+අලුත් address එක අංක 23, මල්ලවපිටිය, නුවර පාර, කුරුණෑගල",changeAddress
+Thushara,opening - closing hours කොහොමද?,openingHousrs
+Thushara,කොළ පාට T-shirt එකේ Large Size එක තියනවාද ?,askSizes
+Thushara,කුරුණෑගල branch එකේ phone number එක ගන්න පුළුවන්ද ?,telephone
+Upulee Pabasara,"අනේ, #2345 ඔර්ඩර් එක කැන්සල්  කරන්න ඕනේ    ",cancelOrder
+Upulee Pabasara,"අනේ, #2345 ඔර්ඩර් එකේ ඩිලිවරි කරන්න තියන ඇඩ්‍රස් එක වැරදි. ඒක වෙනස් කරන්න ඕනේ    
+",changeAddress
+Upulee Pabasara,අනුරාධපුර ශෝ රූම් එක ඕපන් වෙලා තියෙන්නේ කීයේ ඉඳන් ද?,openingHousrs
+Upulee Pabasara,මෙතන තියන කොළපාට ටී ශර්ට් එකේ ස්මෝල් සයිස් එක තියනවද ඔයාලා ගාව?,askSizes
+Upulee Pabasara,අනුරාධපුර ශෝ රූම් එකට කතා කරන්න පුළුවන් නොම්බරයක් තියනවද?,telephone
+Pasan Williams,#2345 ඇනවුම් අංකයෙන් තියන oder එක cancel කරන්න,cancelOrder
+Pasan Williams,ඇනවුම් අංක#2345 සදහා ලබාදුන් ලිපිනය වෙනස් කරන්න ඕන,changeAddress
+Pasan Williams,ශෝ රූම් එක කීයට වගේද open කරන්නේ,openingHousrs
+Pasan Williams,කොල පාට එකෙන් large ගන්න තියේද,askSizes
+Pasan Williams,මට ඕගොල්ලන්ගේ මාතර ශෝ රූම් තියන නම්බර් එකක් ගන්න ඕන,telephone
+Ruwan Sudheera,මම කලින් කරපු ඇණවුමක් අවලංගු කරන්න පුළුවන් ද. අංකය 2345,cancelOrder
+Ruwan Sudheera,මම කලින් ඇණවුමක් කරා. ඒත් address එක වැරදියි. මට හරි address එකට වෙනස් කරගන්න පුළුවන් ද. Order number එක #2345,changeAddress
+Ruwan Sudheera,මට දැනගන්න පුළුවන් ද නුවර ශාකාව විවෘතව තියන වේලාවන්,openingHousrs
+Ruwan Sudheera,මේ කොලපාට t-shirt එකේ large size එකක් ගන්න පුලුවන් ද,askSizes
+Ruwan Sudheera,"සුභ උදෑසනක්, මට දැනගන්න පුළුවන් ද නුවර ශාකාවෙ දුරකථන අංකය",telephone
+Yasiru,මගේ ඇණවුම් අංකය #2345. මට මේ order එක cancel කරන්න ඕනා,cancelOrder
+Yasiru,මගේ ඇණවුම් අංකය #2345. මට මේකේ දීපු address එක වෙනස් කර ගන්න ඕනා,changeAddress
+Yasiru,ඒ ශාඛාවා ඇරලා තියෙන වෙලාවල් මොනවද?,openingHousrs
+Yasiru,කොළ පාට t shirt එකේ XL size එක තියෙනවද,askSizes
+Yasiru,මට මතුගම ප්‍රදේශයේ තියෙන ඔයාලගෙ ශාඛාව සම්බන්ද කර ගන්න පුලුවන් දුරකතන අංකයක් දෙන්න,telephone
+Maneesha,#2345 ඇණවුම් අංකයේ ඇණවුම අවලංගු කරන්න පුලුවන්ද?,cancelOrder
+Maneesha,#2345 ඇණවුම් අංකයේ ලිපිනය වෙනස් කරන්න පුලුවන්ද?,changeAddress
+Maneesha,කෑගල්ල ශාඛාව විවෘතව ඇති වේලාවන් කියන්න,openingHousrs
+Maneesha,කොල පාට එකේ S සයිස් එක තියනවද?,askSizes
+Maneesha,මට කෑගල්ල ශාඛාවේ දුරකතන අංකය ලබා දෙන්න,telephone
+පවන්,මගේ ඕඩර් එක කැන්සල් කරගන්න පුළුවන්ද,cancelOrder
+පවන්,මට මගේ ඇඩ්‍රස් එක වෙනස් කරගන්න ඕනා,changeAddress
+පවන්,කීයටද අරින්නෙ ඔයාලා,openingHousrs
+පවන්,කොල පාට එකේ සයිස් එක මොකක්ද,askSizes
+පවන්,මට දැනගන්න පුළුවන්ද මිනුවන්ගොඩ ශාඛාවේ දුරකතන අංකය,telephone
+Sahani Rajapakshe,Mata #2345 ඇණවුම අවලංගු කිරීමට අවශ්‍යි,cancelOrder
+Sahani Rajapakshe,මට  #2345 ඇණවුම සදහා ලබා දුන් ලිපිනය වෙනස් කිරීමට අවශ්‍යයි,changeAddress
+Sahani Rajapakshe,මට එය  විවෘතව ඇති වේලාවන් දැන ගැනීමට අවශ්‍යයි,openingHousrs
+Sahani Rajapakshe,කොළ පැහැ t-shirt එකෙහි L size තිබේද?,askSizes
+Sahani Rajapakshe,මට අනුරාධපුර නගරයේ තිබෙන SJ Fashion ශාඛාව හා සම්බන්ධ විය හැකි දුරකථන අංකයක් ලබා ගැනීමට අවශ්‍යයි,telephone
+Lakshika,ඇණවුම අවලංගු කරන්න,cancelOrder
+Lakshika,ඇණවුම් අංකය #2345ට වෙනස් කරන්න,changeAddress
+Lakshika,මට කොයි වෙලාවටද එන්න පුලුවන්?,openingHousrs
+Lakshika,කොලපාට ෂර්ට් එකේ සයිස් නැද්ද?,askSizes
+Lakshika,දුරකථන අංකය ලබා දෙන්න,telephone
+Mevuni,මම ඔයාලට කලින් දීපු ඇණවුමක් දැන් කැන්සල් කරන්න පුළුවන් වෙයිද ? මගේ ඇණවුම් අංකය 2345,cancelOrder
+Mevuni,මම ඔයාලගෙන් ටීෂර්ට් එකක් ගත්තා. මම කලින් දීපු ලිපිනය වෙනස් කරන්න පුළුවන්ද දැන්? මගේ ඇණවුම් අංකය 2345,changeAddress
+Mevuni,ඔයාලගෙ ශොප් එක කීයෙ ඉදන් කීය වෙනකං ද ඇරලා තියෙන්නෙ ?,openingHousrs
+Mevuni,මට අවශ්‍ය කොළ පාට ටීෂර්ට් එකේ ස්මෝල් සයිස් එක. ඔයාලා ගාව දැනට ඒක තියනවද ?,askSizes
+Mevuni,සුභ උදෑසනක්! මට ඔයාලගෙ කොට්ටාව  ශෝ රූම් එකේ ටෙලිෆෝන් නම්බර් එක දැනගන්න පුළුවන්ද ?,telephone
+Jithmi,මට මගෙ ඕඩර් එක කැන්සල් කරන්න ඕන. ඕඩර් නම්බර් එක #2345,cancelOrder
+Jithmi,මගෙ ඕඩර් එකේ ඩිලිවරි ඇඩ්‍රස් එක වෙනස් කර ගන්න ඕනි. ඕඩර් නම්බර් එක 2345,changeAddress
+Jithmi,මට ඔයාලාගෙ මීගමුව ශාඛාව කීයෙ ඉඳං කීය වෙනකන්  ඇරලා තියෙනවද කියලා දැන ගන්න ඕන.,openingHousrs
+Jithmi,හරි.  මේ කොළ පාට ටී එකේ මීඩියම් සයිස් තියෙනවද?,askSizes
+Jithmi,මට ඔයාලාගෙ මීගමුව ශාඛාවෙ කන්ටැක්ට් නම්බර් එක දැන ගන්න ඕනි,telephone
+Madhushan,2345 ඇන්වුම අවලංගු කිරීමට අවශ්‍යයි,cancelOrder
+Madhushan,ලබා දුන් ලිපිනය වෙනස් කිරීමට අවශ්‍යයි,changeAddress
+Madhushan,ශාඛාව විවෘත වන්නේ කීයටද,openingHousrs
+Madhushan,කොල පැහැ tshirt එකේ small size තියනවද,askSizes
+Madhushan,මට අවශ්‍යයි ලගම ශාඛාවේ දුරකථන අංකය,telephone
+Lakshan,මට මගේ order එක cancel කරන්න ඕන. නම්බර් එක #2345,cancelOrder
+Lakshan,මගේ order number එක #2345. එකේ ලිපිනය වැරදි කරුණාකර ඒක වෙනස් කරගන්න පුලුවන්ද,changeAddress
+Lakshan,ඔයාල කීය වෙනකන් ඇරලද,openingHousrs
+Lakshan,මට මේ කොල පාට ටී ශර්ට් එක තියනවද බලා ගන්න පුලුවන්ද,askSizes
+Lakshan,මට මගේ ලගම තියෙන branch එකේ contact නම්බර් එක දෙන්න පුලුවන්ද,telephone
+Sandun Susantha,මට මගේ ඇනවුම අවලංගු කිරීමට අවශ්‍යයි. මගේ ඇනවුම් අංකය වනුයේ #2345.,cancelOrder
+Sandun Susantha,මගේ ඇනවුම් අංකය වනුයේ #2345. මට මෙකේ ලිපිනය වෙනස් කරන්න අවශ්‍යයි,changeAddress
+Sandun Susantha,මට දැනගැනීමට අවශ්‍යයි ඔබගේ ශාඛාව විවෘතව පවතින වෙලාවන්,openingHousrs
+Sandun Susantha,මේ කොළ පාට එක කීයද,askSizes
+Sandun Susantha,ඔබ කැමති නම් අපිට පුළුවන් ඔබගේ ප්‍රදේශයේ අපගේ ශාඛාවේ විස්තර ලබා දීමට. ඒ සඳහා ඔබගේ දුරකතන අංකය අවශ්‍ය වේ,telephone
+Yelani,මම yelani. #2345 order එක මට cancel කරගන්න අවශ්‍යයි.,cancelOrder
+Yelani,Delivery address එකක් දුන්නා මම. ඒත් ඒක දැන් මට වෙනස් කරන්න ඕනි. කෝමද කරගන්නේ,changeAddress
+Yelani,Opening hours ගැන මට දැනගන්න පුළුවන්ද,openingHousrs
+Yelani,කොළ පාට එක කීයක් වෙනවද,askSizes
+Yelani,මම ගම්පහ ඉන්නේ. මට showroom එකක්‌ තියෙන තැනක් දැනගන්න ඕනි.,telephone
+Niraji,මා හට #2344 ඇනවුම අවලංගු කිරීමට අවශ්‍යයි,cancelOrder
+Niraji,මා හට #2345 ඇනවුම සදහා ලබාදුන් ලිපිනය වෙනස් කිරීමට අවශ්‍යයි,changeAddress
+Niraji,මට ඔබලාගේ මාතර නගර ශාඛාව විවෘත කරන වෙලාව දැන ගන්න පුළුවන්ද,openingHousrs
+Niraji,කොළ පැහැති tshirt එකේ XL ලබා ගතහැකිද,askSizes
+Niraji,මට ඔබලාගේ මාතර නගර ශාඛාවේ දුරකථන අංකය ලබා ගත හැකිද,telephone
+Jayani,කරැණාකරල #2345 ඕඩර් එක කැන්සල් කරන්න පුළුවන්ද?,cancelOrder
+Jayani,සුභ උදෑසනක්. මගෙ ඕඩර් අයි ඩී එක #2345. මට පුළුවන්ද මම දීල තියෙන ඩිලිවරි එඩ්‍රස් එක වෙනස් කරන්න?,changeAddress
+Jayani,මට දැනගන්න පුළුවන්ද කුරැණෑගල ශෝ රෑම් එක ඕපන් කරන්නෙ කීයටද කියල?,openingHousrs
+Jayani,මේ කොළ පාට ටී ෂර්ට් එකේ ස්මෝල් සයිස් එක තියනවද?,askSizes
+Jayani,සුභ උදෑසනක්. මට ඕගොල්ලන්ගෙ කුරැණෑගල ශෝ රෑම් එකේ ෆෝන් නම්බර් එකක් ගන්න පුළුවන්ද?,telephone
+බුද්ධි උපාධ්‍යා,කරුණාකර ඇණවුම  අවලංගු කරන්න. මගේ ඇණවුම් අංකය #2345,cancelOrder
+බුද්ධි උපාධ්‍යා,ඇණවුම ලබා දුන් ලිපිනය වෙනස් කිරීමට අවශ්‍යයි. මගේ ඇණවුම් අංකය #2345,changeAddress
+බුද්ධි උපාධ්‍යා,ශාඛාව විවෘත කර තිබෙන වේලාවන්,openingHousrs
+බුද්ධි උපාධ්‍යා,කොළ පාට t shirt එකේ small size තියේද,askSizes
+බුද්ධි උපාධ්‍යා,මගේ නගරයේ ශාඛාව හා සම්බන්ධ විය හැකි දුරකථන අංකය ක් අවශ්‍යයි,telephone
+Tharika sandeepani,#2345 ඇනවුම අවලංගු කිරීමට අවශ්‍යයි,cancelOrder
+Tharika sandeepani,#2345 ඇනවුමේ ලිපිනය වෙනස් කරන්න අවශ්‍යයි,changeAddress
+Tharika sandeepani,වැලිගම ශාඛාව විවෘත වේලාවන් මොනවාද,openingHousrs
+Tharika sandeepani,කොල පාට ටීෂර්ට් එකේ xs size තියෙනවද,askSizes
+Tharika sandeepani,මට වැලිගම ශාඛාවේ දුරකථන අංකය ලබාගන්න ඕන,telephone
+R.R,දුරකතන අංකය ඕනෙ,telephone
+San,2345 ඇණවුම මට අවලංගු කරන්න පුලුවන්ද,cancelOrder
+San,2345 ඇණවුමේ ලිපිනය වෙනස් කරන්න පුලුවන්ද,changeAddress
+San,ඒ ශාඛාව ඇරලා තියෙන්නෙ කීයේ ඉදලා කීය වෙනකන්ද,openingHousrs
+San,කොල පාට ටී එකේ සයිසස් තියනවද,askSizes
+San,මට අනුරාධපුර ශාඛාවේ දුරකතන අංකය දැනගන්න පුලුවන් ද?,telephone
+Dinesha,මට #2345 ඇණවුම අය්‍න් කරන්න ඔනෙ,cancelOrder
+Dinesha,#2345 ඔඩර් එකෙ ලිපිනය මට වෙනස් කරන්න ඔනෙ.,changeAddress
+Dinesha,ඔයාගෙ කැලණිය ශාකව විවෘත වෙලා තියෙන්නේ කියෙ ඉදන් කියටද?,openingHousrs
+Dinesha,මෙ කොල පාට එකෙ medium size එකක් තියෙනවද?,askSizes
+Dinesha,මට කැලණිය අවට ශාකවක දුරකථන අංකයක් ගන්න පුළුවන්ද ?,telephone
+janaka,මට මගේ ඇණවුම අවලංගු කරන්න ඕනේ.මගේ ඇණවුම් අංකය #2335,cancelOrder
+janaka,මට මගේ ඇණවුම් ලිපිනය වෙනස් කරන්න ඕනේ. මගේ ඇනවුම් අංකය #2345.,changeAddress
+janaka,මට කැලනිය ශාඛාව ඇරල තියෙන වෙලාව දැන ගන්න පුලුවන්ද?,openingHousrs
+janaka,මට දැනගන්න පුලුවන්ද මෙතන කොල පාට t-shirt එකේ small සයිස් එක මට ගන්න පුලුවන්ද කියල?,askSizes
+janaka,මට ඕගොල්ලන්ගේ කැලනිය ශාඛාවේ දුරකතන අංකයක් එවන්න පුලුවන්ද?,telephone
+janaka,මට මගේ ඇණවුම අවලංගු කරන්න ඕනේ.මගේ ඇණවුම් අංකය #2335,cancelOrder
+janaka,මට මගේ ඇණවුම් ලිපිනය වෙනස් කරන්න ඕනේ. මගේ ඇනවුම් අංකය #2345.,changeAddress
+janaka,මට කැලනිය ශාඛාව ඇරල තියෙන වෙලාව දැන ගන්න පුලුවන්ද?,openingHousrs
+janaka,මට දැනගන්න පුලුවන්ද මෙතන කොල පාට t-shirt එකේ small සයිස් එක මට ගන්න පුලුවන්ද කියල?,askSizes
+janaka,මට ඕගොල්ලන්ගේ කැලනිය ශාඛාවේ දුරකතන අංකයක් එවන්න පුලුවන්ද?,telephone
+Dulanji,මට මගේ ඇණවුම අවලංගු කරන්න ඕනේ. මගේ ඇණවුම් අංකය #2345,cancelOrder
+Dulanji,මට මගේ delivery address එක වෙනස් කරන්න ඕනෙ..,changeAddress
+Dulanji,ඔයාලගෙ ශොප් එක කීය වෙනකම් ඇරල තියෙනවද?,openingHousrs
+Dulanji,හරි.. මට මේ කොල පාට ටී ශර්ට් එකේ medium size එක ගන්න පුලුවන් ද?,askSizes
+Dulanji,සුභ උදෑසනක්. මට ඔයාලගෙ කිරිබත්ගොඩ ශාඛාවේ දුරකතන අංකයක් ගන්න පුලුවන්ද?,telephone
+Ruwan Bandara,ඇණවුම් අංකය 2345 අවලංගු කරන්න,cancelOrder
+Ruwan Bandara,ඇණ්වුම් අංකය 2345 ලබා දුන් ලිපිනය වෙනස් කරන්න,changeAddress
+Ruwan Bandara,ශාඛාව  විවෘත අති වෙලාව කුමක්ද,openingHousrs
+Ruwan Bandara,කොල පාට ටි ශර්ට් එකෙ lage size තියෙනවද,askSizes
+Ruwan Bandara,මට ගම්පහ නගරයෙ ශාඛාව හ සම්බන්ධ විය හැකි දුරකතන අංකයක් ලබා දෙන්න,telephone
+Sachini,මට අංක #2345 දරන ඇනවුම අවලංගු කිරීමට අවශ්‍ය යි.,cancelOrder
+Sachini,මට ඇනවුම සදහා ලබා දුන් ලිපිනය වෙනස් කිරීමට අවශ්‍ය යි.,changeAddress
+Sachini,මට කියන්න ශාඛාව විවෘතව ඇති වෙලාවන්.,openingHousrs
+Sachini,කොළ පාට එකෙන් size 10 තියෙනවද?,askSizes
+Sachini,සුබ උදෑසනක්. රත්නපුර නගරයේ ඇති ඔබගෙ ශාඛාවේ දුරකථන අංකය දැන ගන්න ඕනි.,telephone
+Thisun,Hi good morning. මට දැනගන්න ඕනා මගේ ප්‍රදේශයේ පිහිටා තිබෙන ශාකාවක දුරකතන අංකය,telephone
+සහන්,මට මේක කැන්සල් කරන්න ඕනේ,cancelOrder
+සහන්,#2345 ඇනවුම සදහා මා ලබා දුන් ලිපිනය වෙනස් කල යුතුයි,changeAddress
+සහන්,විවෘත වේලාව,openingHousrs
+සහන්,කලු පාට එකෙ මීඩියම් එක තියනවද,askSizes
+සහන්,ගම්පහ කච්චේරිය,telephone
+Ayomi Dilhara Gunasekara,How,cancelOrder
+Ayomi Dilhara Gunasekara,Kurunegala,changeAddress
+Ayomi Dilhara Gunasekara,When is the open,openingHousrs
+Ayomi Dilhara Gunasekara,Green xxl,askSizes
+Ayomi Dilhara Gunasekara,Hi,telephone
+සිසිත ජයවර්ධන,#2345 order එක cancel කරන්න.මං හදිස්සි වැඩකට එලියට යනව,cancelOrder
+සිසිත ජයවර්ධන,"#2345 order එකේ address එක no.5,බුලට්ස් වීදිය,කොළඹ 7 විදිහට වෙනස් කරන්න ඕන",changeAddress
+සිසිත ජයවර්ධන,කීයෙ ඉදන් කීය වෙනකන් showroom එක ඇරලද,openingHousrs
+සිසිත ජයවර්ධන,මේ කොල පාට එකේ M sze එක තියනවද,askSizes
+සිසිත ජයවර්ධන,Sj fashion එක සම්බන්ධ කරගන්න පුලුවන් number එකක් තියනවද,telephone
+චානක,"#2345 ඇනවුම අවලංගු කරන්න
+",cancelOrder
+චානක,#2345 ඇනවුමේ ලිපිනය මාරු කරන්න,changeAddress
+චානක,නුවර  ශාකාව විවෘතව පවතීද,openingHousrs
+චානක,කොල පාට් t-shirt එකේ xl තියෙනවද,askSizes
+චානක,නුවර ශාකවේ දුරකතන අන්කය  කුමක්ද?,telephone
+Pubudu,#2345 ඇණවුම අවලංගු කිරීමට අවශ්‍යයි,cancelOrder
+Pubudu,ඇණවුම සදහා ලබා දුන් ලිපිනය වෙනස් කිරීමට අවශ්‍යයි,changeAddress
+Pubudu,ජා ඇල සම්පත් බැංකුව විවෘතව ඇති වේලාවන්,openingHousrs
+Pubudu,XL Size එකෙන් තියෙනවද,askSizes
+Pubudu,ජා ඇල සම්පත් බැංකුවේ දුරකථන අංකය දැනගැනීමට අඅවශ්‍යයි,telephone
+Tharindu Bandara,මට ඇනවුම අවලංගු කරගන්න ඕන,cancelOrder
+Tharindu Bandara,මට ඕන ඇනවුම කටුගස්තොටට ගෙන්වාගන්න,changeAddress
+Tharindu Bandara,මට දැනගන්න ඕන එම ආයතනය විවෘතව ඇති වේලාවන්,openingHousrs
+Tharindu Bandara,මට ඕන මධයම ප්‍රමානයේ කමිසයක්,askSizes
+Tharindu Bandara,මට දැනගන්න ඕන මහනුවර අබාන්ස් ආයතනයේ දුරකතන අංකය,telephone
+osura,"මට ඇණවුම අවලංගු කිරීමට අවශ්‍යයි, ඇනවුම් අංකය #2345",cancelOrder
+osura,"ඇණවුම් අංකය #2345, සඳහා බෙදා හැරීමේ ලිපිනය වෙනස් කිරීමට අවශ්‍යය",changeAddress
+osura,"28/5000
+එම ශාඛාවේ ආරම්භක වේලාවන්?
+",openingHousrs
+osura,ඔබට කොළ පැහැති ටී ෂර්ට් එකෙන් L ප්‍රමාණය තිබේද?,askSizes
+osura,මොරටුව ශාඛාවේ දුරකථන අංකය ලබා ගැනීමට අවශ්‍යයි,telephone
+Anushi Weerasinghe,Size එක මට ලොකුයි.මට ඇණවුම අවලංගු කරන්න ඔනේ,cancelOrder
+Anushi Weerasinghe,මට ඇණවුම සදහා ලබා දුන් ලිපිනය වෙනස් කිරීමට අවශ්‍යයි.මෙ මගෙ ඇණවුම් අංකය #2345,changeAddress
+Anushi Weerasinghe,ශාඛාව විවෘතව ඇති වේලාවන් දැනගන්න ඔනේ.,openingHousrs
+Anushi Weerasinghe,කොළ පැහැ t-shirt එකේ small size  එක ගන්න පුලුවන්ද?,askSizes
+Anushi Weerasinghe,මට ඔගොල්ලන්ගෙ බොරලැස්ගමුව ශාඛාව හා සම්බන්ධ විය හැකි දුරකථන අංකයක් ලබා ගැනීමට අවශ්‍යයි,telephone
+Chamara,මට ඇණවුම අවලංගු කිරීමට අවශ්‍යයි.ඇණවුම් අංකය #2345 වේ,cancelOrder
+Chamara,ඇණවුම සදහා ලබා දුන් ලිපිනය වෙනස් කිරිමට අවශ්‍යයි.ඇණවුම් අංකය #2345,changeAddress
+Chamara,මට මහියංගන SJ  ශාඛාව විවෘතව ඇති වෙලාවන් දැනගැනිමට අවශ්‍යයි,openingHousrs
+Chamara,කොළ පැහැ t-shirt එකේ M සයිස් එක තියෙන්වද,askSizes
+Chamara,මට මහියංගන ශාඛාව හා සම්බන්ධ විය හැකි දුරකථන අංකයක් ලබා ගැනීමට අවශ්‍යයි,telephone
+Jeewantha,#2345 ඕඩර් එක මට එපා,cancelOrder
+Jeewantha,මට කලින් දීපු ලිපිනය වෙනස් කරන්න ඕනි #2345 කියන ඕඩරේට,changeAddress
+Jeewantha,කැලණිය ශාඛාව විවෘතව තිබෙන වේලාවන් මොනවාද,openingHousrs
+Jeewantha,කොල පාට එකේ මීඩියම් සයිස් තියනවද,askSizes
+Jeewantha,මට ඕනි කැලණියෙ ශාඛාවෙ නම්බර් එකක්,telephone
+Darshana,ඇනවුම වෙනස් කරන්න,cancelOrder
+Darshana,ඇනවුම වෙනස් කිරීමට අවශ්‍යයි,changeAddress
+Darshana,විවෘතව ඇති වේලාවන් දැන ගැනීමට අවශ්‍යයි,openingHousrs
+Darshana,කොළ පැහැ t-shirt එකෙහි large  size ක තිබේද,askSizes
+Darshana,මට ගලගෙදර ශාඛාවේ දුරකථන අංකය අවශ්‍යයි,telephone
+Nisal,#2345 order එක cancel කරන්න,cancelOrder
+Nisal,#2345 order එක එවන address එක වෙනස් කරන්න ඕනේ,changeAddress
+Nisal,මට පානදුර ශාඛාව ඇරලා තියෙන වෙලාව කියන්න,openingHousrs
+Nisal,කොළ පාට shirt එකේ medium size තියෙනවද?,askSizes
+Nisal,මට පානදුර ශාඛාවේ දුරකථන අංකය එවන්න,telephone
+akila,යම් හෙතුවක් නිසා  මගෙ ඇනවුම අවලංගු කරන්න ඔනෙ මගෙ ඇනවුම් අංකය 2345,cancelOrder
+akila,මට මගෙ ඇනවුමට ලබා දුන්න ලිපිනය වෙනස් කරන්න ඔනෙ මගෙ ඇනවුම් අංකය 2345,changeAddress
+akila,ඔයාලගෙ ගම්පහ ශාකාව විවෘත ඇත්තෙ කොයි වෙලාවන් වලද,openingHousrs
+akila,කොල පාට ටි ශර්ට් එකෙ මිඩියම් සයිස් තියෙනවද,askSizes
+akila,මට ඔයාලගෙ ගම්පහ ශාකාවෙ දුරකතන අංකය ලබා ගන්න පුලුවන්ද,telephone
+Madusha Lakmini,මට #2345 ඕර්ඩර් එක කැනසල් කරන්න ඕන,cancelOrder
+Madusha Lakmini,මට #2345 ඇඩ්රස් එක වෙනස් කරන්න ඕන,changeAddress
+Madusha Lakmini,ඒක මොන ටයිම් එකේද ඇරලා තියෙන්නේ?,openingHousrs
+Madusha Lakmini,ඔය කොළ පාට ටී එකේ ගාන කොහොමද?,askSizes
+Madusha Lakmini,ගුඩ් මෝර්නින්ග්! මට දැනගන්න පුළුවන්ද ඔයාලගේ මාතලේ බ්‍රාන්ච් එකේ ෆෝන් නම්බර් එක?,telephone
+KK,Cancel my order,cancelOrder
+KK,Change the delivery address,changeAddress
+KK,When ll you open shop?,openingHousrs
+KK,I don't want,askSizes
+KK,Hello burba,telephone
+දිනෙත් ශාන් ගිම්හාන,ඇණවුම් අංකය #2345 මට මේ order එක cancel කරන්න ඕනි,cancelOrder
+දිනෙත් ශාන් ගිම්හාන,ඇණවුම් අංකය #2345 ට දුන්න delivery address එක වෙනස් කරන්නෙ කොහොමද?,changeAddress
+දිනෙත් ශාන් ගිම්හාන,මට දැන ගන්න පුලුවන්ද පානදුර ශාඛාව ඇරලා තියෙන්නෙ කීයේ ඉදන් කීය වෙනකම්ද කියලා,openingHousrs
+දිනෙත් ශාන් ගිම්හාන,කොල පාට ටී ශර්ට් එකේ large size එක තියෙනවද?,askSizes
+දිනෙත් ශාන් ගිම්හාන,මට දැන ගන්න පුලුවන්ද ඔයගොල්ලන්ගේ පානදුර ශාඛාවේ දුරකතන අංකය?,telephone
+දිනෙත් ශාන් ගිම්හාන,ඇණවුම් අංකය #2345 මට මේ order එක cancel කරන්න ඕනි,cancelOrder
+දිනෙත් ශාන් ගිම්හාන,ඇණවුම් අංකය #2345 ට දුන්න delivery address එක වෙනස් කරන්නෙ කොහොමද?,changeAddress
+දිනෙත් ශාන් ගිම්හාන,මට දැන ගන්න පුලුවන්ද පානදුර ශාඛාව ඇරලා තියෙන්නෙ කීයේ ඉදන් කීය වෙනකම්ද කියලා,openingHousrs
+දිනෙත් ශාන් ගිම්හාන,කොල පාට ටී ශර්ට් එකේ large size එක තියෙනවද?,askSizes
+දිනෙත් ශාන් ගිම්හාන,මට දැන ගන්න පුලුවන්ද ඔයගොල්ලන්ගේ පානදුර ශාඛාවේ දුරකතන අංකය?,telephone
+සනූජා,ඇණවුම් අංකය #2345 අදාල ඇණවුම අවලංගු කරන්න ඕනෙ,cancelOrder
+සනූජා,ඇණවුම් අංකය #2345 අදාල ලිපිනය වෙනස් කරන්න ඕනෙ,changeAddress
+සනූජා,කුරුණෑගල ශාඛාව විවෘත වේලාවන් මොනවාද?,openingHousrs
+සනූජා,කොළ පැහැ t-shirt එකෙ small size එක කියනවද?,askSizes
+සනූජා,සුභ උදෑසනක්! කුරුණෑගල ශාඛාවෙ  දුරකථන අංකය ගන්න පුලුවන්ද,telephone
+Yasiru,#2345 ඇණවුම අවලංගු කරන්න,cancelOrder
+Yasiru,#2345 ඇණවුමේ ලිපිනය වෙනස් කළ යුතුයි,changeAddress
+Yasiru,කීයටද  ශාඛාව විවෘතව තිබෙන්නේ,openingHousrs
+Yasiru,කොළ පාට tshirt  එකේ small size එක තිබෙනවා ද,askSizes
+Yasiru,මට නුවරඑළිය ශාඛාවේ දුරකථන අංකය අවශ්‍යයි .,telephone
