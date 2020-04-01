@@ -1,18 +1,26 @@
 
 <mat-toolbar>
-    <button mat-button>
-        <mat-icon aria-hidden="false" aria-label="Example home icon"  (click)="drawer.toggle()">menu</mat-icon>
+    <button mat-button  (click)="drawer.toggle()">
+        <mat-icon aria-hidden="false" aria-label="Example home icon">menu</mat-icon>
     </button>
     Burbi
 </mat-toolbar>
 
 <mat-drawer-container class="example-container" autosize>
     <mat-drawer #drawer class="example-sidenav" mode="side">
-        
+        <mat-list role="list">
+            <mat-list-item role="listitem"  routerLink="add" routerLinkActive="active">
+                <mat-icon>add</mat-icon>
+                Add Intent</mat-list-item>
+            <mat-list-item role="listitem" routerLink="view" routerLinkActive="active">
+                <mat-icon>message</mat-icon>
+                Intents</mat-list-item>
+            <mat-list-item role="listitem">Item 3</mat-list-item>
+          </mat-list>
     </mat-drawer>
   
     <div class="example-sidenav-content">
-
+        <router-outlet></router-outlet>
     </div>
   
   </mat-drawer-container>
