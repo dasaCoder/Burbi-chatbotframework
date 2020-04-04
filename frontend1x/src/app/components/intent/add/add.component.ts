@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { AngularFireStorage, AngularFireStorageReference, AngularFireUploadTask } from 'angularfire2/storage';
+import { AngularFireDatabase } from '@angular/fire/database';
 
 @Component({
   selector: 'app-add',
@@ -11,7 +13,7 @@ export class AddComponent implements OnInit {
   examples;
   param1 = [];
   param2 = []; 
-  constructor() { }
+  constructor(private afStorage: AngularFireStorage, private firedb: AngularFireDatabase) { }
 
   ngOnInit(): void {
   }
@@ -25,6 +27,8 @@ export class AddComponent implements OnInit {
     };
 
     console.log(data);
+    this.firedb.list("intents")
+        .push(data);
 
   }
 

@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebaseConfig : {
-    apiKey: "AIzaSyDGk0Ji7Yt28nrFEcdjGmhsx7LmXC3Oj6I",
-    authDomain: "examhelp-c87f6.firebaseapp.com",
-    databaseURL: "https://examhelp-c87f6.firebaseio.com",
-    projectId: "examhelp-c87f6",
-    storageBucket: "examhelp-c87f6.appspot.com",
-    messagingSenderId: "85830456795",
-    appId: "1:85830456795:web:12e9a365eefeb1167bc3fe",
-    measurementId: "G-7S1J6ZLGSK"
+    apiKey: "AIzaSyA_BaTF1OO_InXzGoVXD1LVfxDrVvEbH-4",
+    authDomain: "burba-datacollector.firebaseapp.com",
+    databaseURL: "https://burba-datacollector.firebaseio.com",
+    projectId: "burba-datacollector",
+    storageBucket: "burba-datacollector.appspot.com",
+    messagingSenderId: "208947321924",
+    appId: "1:208947321924:web:9b906bab262c2694bfb011",
+    measurementId: "G-VKB8JJ5RV1"
   }
 };
 
