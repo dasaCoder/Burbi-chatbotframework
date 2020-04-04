@@ -1,13 +1,12 @@
-.example-container {
-    height: 100%;
-  }
+
   
   .example-sidenav-content {
     /* display: flex; */
-    height: 100%;
+    
     align-items: center;
     justify-content: center;
     padding: 30px;
+    margin: 0 50px 0 100px;
   }
 
   .mat-list-item{

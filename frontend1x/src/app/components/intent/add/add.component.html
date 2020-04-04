@@ -1,86 +1,96 @@
 <div class="container">
 
-    <form class="example-form">
+    <div class="example-form">
+      <mat-card>
         <mat-form-field class="example-full-width">
           <mat-label>Title</mat-label>
-          <input matInput placeholder="Ex. Telephone" >
+          <input matInput placeholder="Ex. Telephone" [(ngModel)]="title">
         </mat-form-field>
-      
+      </mat-card>
+      <mat-card>
         <mat-form-field class="example-full-width">
           <mat-label>Examples</mat-label>
-          <textarea matInput placeholder="Ex. I need to know..."></textarea>
+          <textarea matInput placeholder="Ex. I need to know..." [(ngModel)]="examples"></textarea>
         </mat-form-field>
+      </mat-card>
 
-        <div layout="row" layout-wrap>
-          <div flex="50">80%</div>
-          <div flex="50">20%</div>
-      </div>
+  
         <mat-card>
           <mat-card-header>
             <mat-card-title>Parameters</mat-card-title>
             <mat-card-subtitle>tetst ss</mat-card-subtitle>
           </mat-card-header>
+        <div >
+          <div fxLayout="row wrap">
 
-          <!-- parameter 1 -->
-          <mat-card>
-            <mat-card-header>
-              <mat-card-title>Parameter 1</mat-card-title>
-            </mat-card-header>
-            <mat-form-field class="example-full-width">
-              <mat-label>Title</mat-label>
-              <input matInput placeholder="Ex. Telephone" >
-            </mat-form-field>
-  
-            <mat-form-field  class="example-full-width">
-              <mat-label>Type</mat-label>
-              <mat-select>
-                <mat-option value="regex">Regex</mat-option>
-                <mat-option value="search">Search</mat-option>
-              </mat-select>
-  
-            </mat-form-field>
+              <div fxFlex="25" fxFlex.lg="50" fxFlex.md="44" fxFlex.sm="60" fxFlex.xs="100" fxLayout="column" style="padding: 5px;">
+              
+            
+                <!-- parameter 1 -->
+                <mat-card>
+                  <mat-card-header>
+                    <mat-card-title>Parameter 1</mat-card-title>
+                  </mat-card-header>
+                  <mat-form-field class="example-full-width">
+                    <mat-label>Title</mat-label>
+                    <input matInput placeholder="Ex. Telephone" [(ngModel)]="param1['title']" >
+                  </mat-form-field>
+        
+                  <mat-form-field  class="example-full-width">
+                    <mat-label>Type</mat-label>
+                    <mat-select [(ngModel)]="param1['type']">
+                      <mat-option value="regex">Regex</mat-option>
+                      <mat-option value="search">Search</mat-option>
+                    </mat-select>
+        
+                  </mat-form-field>
 
-            <mat-form-field class="example-full-width">
-              <mat-label>Samples</mat-label>
-              <textarea matInput placeholder="Comma seperated values. Ex. If regex type, supply regex pattern/s and if a search type provide dictionary to search"></textarea>
-            </mat-form-field>
-          </mat-card>
-          <!-- end parameter 1 -->
+                  <mat-form-field class="example-full-width">
+                    <mat-label>Samples</mat-label>
+                    <textarea matInput [(ngModel)]="param1['samples']" placeholder="Comma seperated values. Ex. If regex type, supply regex pattern/s and if a search type provide dictionary to search"></textarea>
+                  </mat-form-field>
+                </mat-card>
+                <!-- end parameter 1 -->
+              </div>
+              <div fxFlex="25"  fxFlex.lg="50" fxFlex.md="44" fxFlex.sm="60" fxFlex.xs="100" fxLayout="column" style="padding: 5px;">
+              
+            
+                <!-- parameter 2 -->
+                <mat-card>
+                  <mat-card-header>
+                    <mat-card-title>Parameter 2</mat-card-title>
+                  </mat-card-header>
+                  <mat-form-field class="example-full-width">
+                    <mat-label>Title</mat-label>
+                    <input matInput placeholder="Ex. Telephone" [(ngModel)]="param2['title']">
+                  </mat-form-field>
+        
+                  <mat-form-field  class="example-full-width">
+                    <mat-label>Type</mat-label>
+                    <mat-select [(ngModel)]="param2['type']">
+                      <mat-option value="regex">Regex</mat-option>
+                      <mat-option value="search">Search</mat-option>
+                    </mat-select>
+        
+                  </mat-form-field>
 
-          <!-- parameter 2 -->
-
-          <mat-card>
-            <mat-card-header>
-              <mat-card-title>Parameter 2</mat-card-title>
-            </mat-card-header>
-            <mat-form-field class="example-full-width">
-              <mat-label>Title</mat-label>
-              <input matInput placeholder="Ex. Telephone" >
-            </mat-form-field>
-  
-            <mat-form-field  class="example-full-width">
-              <mat-label>Type</mat-label>
-              <mat-select>
-                <mat-option value="regex">Regex</mat-option>
-                <mat-option value="search">Search</mat-option>
-              </mat-select>
-  
-            </mat-form-field>
-
-            <mat-form-field class="example-full-width">
-              <mat-label>Samples</mat-label>
-              <textarea matInput placeholder="Comma seperated values. Ex. If regex type, supply regex pattern/s and if a search type provide dictionary to search"></textarea>
-            </mat-form-field>
-          </mat-card>
-
-          <!-- end parameter 2 -->
-
-          <div>
-            <button mat-button mat-raised-button color="primary">
-              <mat-icon>add</mat-icon>
-              Add</button>
+                  <mat-form-field class="example-full-width">
+                    <mat-label>Samples</mat-label>
+                    <textarea matInput [(ngModel)]="param2['samples']" placeholder="Comma seperated values. Ex. If regex type, supply regex pattern/s and if a search type provide dictionary to search"></textarea>
+                  </mat-form-field>
+                </mat-card>
+                <!-- end parameter 2 -->
+              </div>
+            </div>
           </div>
         </mat-card>
-      </form>
+
+          <mat-card  >
+            <button mat-button mat-raised-button color="primary" (click)="saveIntent()">
+              <mat-icon>save</mat-icon>
+               Save</button>
+           </mat-card>
+
+      </div>
 
 </div>
