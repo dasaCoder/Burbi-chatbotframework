@@ -1,1 +1,86 @@
-<p>add works!</p>
+<div class="container">
+
+    <form class="example-form">
+        <mat-form-field class="example-full-width">
+          <mat-label>Title</mat-label>
+          <input matInput placeholder="Ex. Telephone" >
+        </mat-form-field>
+      
+        <mat-form-field class="example-full-width">
+          <mat-label>Examples</mat-label>
+          <textarea matInput placeholder="Ex. I need to know..."></textarea>
+        </mat-form-field>
+
+        <div layout="row" layout-wrap>
+          <div flex="50">80%</div>
+          <div flex="50">20%</div>
+      </div>
+        <mat-card>
+          <mat-card-header>
+            <mat-card-title>Parameters</mat-card-title>
+            <mat-card-subtitle>tetst ss</mat-card-subtitle>
+          </mat-card-header>
+
+          <!-- parameter 1 -->
+          <mat-card>
+            <mat-card-header>
+              <mat-card-title>Parameter 1</mat-card-title>
+            </mat-card-header>
+            <mat-form-field class="example-full-width">
+              <mat-label>Title</mat-label>
+              <input matInput placeholder="Ex. Telephone" >
+            </mat-form-field>
+  
+            <mat-form-field  class="example-full-width">
+              <mat-label>Type</mat-label>
+              <mat-select>
+                <mat-option value="regex">Regex</mat-option>
+                <mat-option value="search">Search</mat-option>
+              </mat-select>
+  
+            </mat-form-field>
+
+            <mat-form-field class="example-full-width">
+              <mat-label>Samples</mat-label>
+              <textarea matInput placeholder="Comma seperated values. Ex. If regex type, supply regex pattern/s and if a search type provide dictionary to search"></textarea>
+            </mat-form-field>
+          </mat-card>
+          <!-- end parameter 1 -->
+
+          <!-- parameter 2 -->
+
+          <mat-card>
+            <mat-card-header>
+              <mat-card-title>Parameter 2</mat-card-title>
+            </mat-card-header>
+            <mat-form-field class="example-full-width">
+              <mat-label>Title</mat-label>
+              <input matInput placeholder="Ex. Telephone" >
+            </mat-form-field>
+  
+            <mat-form-field  class="example-full-width">
+              <mat-label>Type</mat-label>
+              <mat-select>
+                <mat-option value="regex">Regex</mat-option>
+                <mat-option value="search">Search</mat-option>
+              </mat-select>
+  
+            </mat-form-field>
+
+            <mat-form-field class="example-full-width">
+              <mat-label>Samples</mat-label>
+              <textarea matInput placeholder="Comma seperated values. Ex. If regex type, supply regex pattern/s and if a search type provide dictionary to search"></textarea>
+            </mat-form-field>
+          </mat-card>
+
+          <!-- end parameter 2 -->
+
+          <div>
+            <button mat-button mat-raised-button color="primary">
+              <mat-icon>add</mat-icon>
+              Add</button>
+          </div>
+        </mat-card>
+      </form>
+
+</div>
